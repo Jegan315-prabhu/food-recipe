@@ -6,7 +6,7 @@ body, html {
   align-items: center;
   justify-content: center;
   margin: 0;
-  font-family: 'Poppins', sans-serif; /* Updated font for a more modern feel */
+  font-family: 'Poppins', sans-serif;
   background: linear-gradient(135deg, #6a11cb, #2575fc); /* Vibrant blue and purple gradient */
   background-size: 400% 400%; /* Stretch the gradient for a more dynamic effect */
   animation: gradientAnimation 10s ease infinite; /* Smooth animation for gradient */
